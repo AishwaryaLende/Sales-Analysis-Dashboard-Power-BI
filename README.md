@@ -76,6 +76,7 @@ This project showcases an interactive Power BI dashboard built using the Superst
 5. Enhanced dashboard design and interactive visualization skills.
 
 # Preview
+https://github.com/AishwaryaLende/Sales-Analysis-Dashboard-Power-BI/blob/main/Screenshot%202026-05-23%20210637.png
 
 # Conclusion
 
