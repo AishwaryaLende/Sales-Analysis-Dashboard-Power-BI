@@ -47,7 +47,7 @@ This project showcases an interactive Power BI dashboard built using the Superst
 
 # Project Structure
 
-- datasets/ – Superstore dataset used for analysis
+- datasets/ – [Superstore dataset used for analysis](https://github.com/AishwaryaLende/Sales-Analysis-Dashboard-Power-BI/blob/main/Sample%20-%20Superstore%20(3).xls)
 - Superstore_Sales_Analysis.pdf – Exported dashboard report
 - Superstore_PowerBI_Report.pbix – Power BI source file
 - images/ – Dashboard screenshots and visuals
